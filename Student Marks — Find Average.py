@@ -17,3 +17,7 @@ class Student:
 
 s1 = Student("Prathamesh", [80,90,70])
 s1.get_average()
+
+
+s2 = Student("Devashish", [80,90,60])
+s2.get_average()

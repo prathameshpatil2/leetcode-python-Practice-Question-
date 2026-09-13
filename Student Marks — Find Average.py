@@ -27,3 +27,6 @@ s3.get_average()
 
 s4 = Student("Mayuresh", [80,80,80])
 s4.get_average()
+
+s5 = Student("Harsh", [90,80,90])
+s5.get_average()

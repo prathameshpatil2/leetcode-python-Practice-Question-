@@ -33,3 +33,6 @@ s5.get_average()
 
 s6 = Student("Anurag", [70,70,70])
 s6.get_average()
+
+s7 = Student("Sujeet", [70,60,60])
+s7.get_average()

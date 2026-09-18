@@ -15,3 +15,6 @@ class Student:
 
 s1 = Student("Prathamesh", [90,80,95])
 s1.highest_marks()
+
+s2 = Student("Devashish", [80,90,80])
+s2.highest_marks()

@@ -18,3 +18,6 @@ s1.highest_marks()
 
 s2 = Student("Devashish", [80,90,80])
 s2.highest_marks()
+
+s3 = Student("Harsh", [90,80,70])
+s3.highest_marks()

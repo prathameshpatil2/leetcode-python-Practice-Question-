@@ -1,0 +1,17 @@
+class Student:
+
+    def __init__(self,name,marks):
+        self.name = name
+        self.marks = marks
+
+    def lowest_marks(self):
+        lowest = self.marks[0]
+
+        for mark in self.marks:
+            if mark < lowest:
+                lowest = mark
+
+        print("Lowest Marks =", lowest)
+
+s1 = Student("Prathamesh", [80,90,90])
+s1.lowest_marks()

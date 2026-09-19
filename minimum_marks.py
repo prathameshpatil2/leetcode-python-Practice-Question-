@@ -21,3 +21,6 @@ s2.lowest_marks()
 
 s3 = Student("Harsh", [80,70,90])
 s3.lowest_marks()
+
+s4 = Student("Mayuresh", [80,70,70])
+s4.lowest_marks()

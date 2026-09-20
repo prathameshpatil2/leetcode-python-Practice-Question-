@@ -12,4 +12,5 @@ class Student:
 
         print("Passing Student =",count)
 
-        
+s1 = Student([80,90,80,30,35])
+s1.count_pass()

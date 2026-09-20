@@ -25,3 +25,4 @@ s4 = Student([30,50,20,60])
 s4.count_pass()
 
 s5 = Student([80,60,20,30,40])
+s5.count_pass()

@@ -13,3 +13,6 @@ acc1.show_balance()
 
 acc2 = Account("67567", 60000)
 acc2.show_balance()
+
+acc3 = Account("87678", 70000)
+acc3.show_balance()

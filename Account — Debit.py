@@ -10,3 +10,6 @@ class Account:
 
 acc1 = Account(12323, 10000)
 acc1.debit(2000)
+
+acc2 = Account(12345, 20000)
+acc2.debit(5000)

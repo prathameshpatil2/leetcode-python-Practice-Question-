@@ -8,3 +8,4 @@ class Account:
         self.balance -= amount
         print("Balance", self.balance)
 
+acc1 = Account(12323, 10000)

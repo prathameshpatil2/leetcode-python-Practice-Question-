@@ -9,3 +9,4 @@ class Account:
         print("Balance", self.balance)
 
 acc1 = Account(12323, 10000)
+acc1.debit(2000)

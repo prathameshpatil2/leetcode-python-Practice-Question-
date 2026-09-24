@@ -9,3 +9,8 @@ print("Prathamesh \n21 \nPython ")
 name = "Prathamesh"
 age = 21
 price = 25.50
+
+a = 10
+b = 20
+print(a)
+print(b)

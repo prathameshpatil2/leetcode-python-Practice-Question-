@@ -25,15 +25,22 @@
 # print("My name is {} and my age is {}".format(name, age))
 
 
-print("Hello World!")
+# print("Hello World!")
 
-print("Prathamesh\n21\nPython")
+# print("Prathamesh\n21\nPython")
 
-name = "Prathamesh"
-print(type(name))
+# name = "Prathamesh"
+# print(type(name))
 
-age = 21
-print(type(age))
+# age = 21
+# print(type(age))
 
-price = 25.99
-print(type(price))
+# price = 25.99
+# print(type(price))
+
+
+a = 10
+b = 20
+
+print(a)
+print(b)

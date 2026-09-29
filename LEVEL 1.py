@@ -28,3 +28,12 @@
 print("Hello World!")
 
 print("Prathamesh\n21\nPython")
+
+name = "Prathamesh"
+print(type(name))
+
+age = 21
+print(type(age))
+
+price = 25.99
+print(type(price))

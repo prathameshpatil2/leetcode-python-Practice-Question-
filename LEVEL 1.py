@@ -1,28 +1,30 @@
-print("Hello World!!")
+# print("Hello World!!")
 
-print("Prathamesh")
+# print("Prathamesh")
 
-print("sinhgad College OF Science")
+# print("sinhgad College OF Science")
 
-print("Prathamesh \n21 \nPython ")
+# print("Prathamesh \n21 \nPython ")
 
-name = "Prathamesh"
-age = 21
-price = 25.50
+# name = "Prathamesh"
+# age = 21
+# price = 25.50
 
-a = 10
-b = 20
-print(a)
-print(b)
+# a = 10
+# b = 20
+# print(a)
+# print(b)
 
-name = "Prathamesh"
-age = 21
+# name = "Prathamesh"
+# age = 21
 
-print("My name is ", name)
-print("My age is ", age)
-print("My name is " + name)
-print("My age is " + str(age))
-print("My name is {} and my age is {}".format(name, age))
+# print("My name is ", name)
+# print("My age is ", age)
+# print("My name is " + name)
+# print("My age is " + str(age))
+# print("My name is {} and my age is {}".format(name, age))
 
 
 print("Hello World!")
+
+print("Prathamesh\n21\nPython")

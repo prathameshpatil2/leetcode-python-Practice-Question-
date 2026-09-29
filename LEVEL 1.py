@@ -39,8 +39,14 @@
 # print(type(price))
 
 
-a = 10
-b = 20
+# a = 10
+# b = 20
 
-print(a)
-print(b)
+# print(a)
+# print(b)
+
+name = "Prathamesh"
+age = 21
+
+print("My name is ", name)
+print("My age is", age)

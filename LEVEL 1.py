@@ -45,8 +45,16 @@
 # print(a)
 # print(b)
 
-name = "Prathamesh"
-age = 21
+# name = "Prathamesh"
+# age = 21
 
-print("My name is ", name)
-print("My age is", age)
+# print("My name is ", name)
+# print("My age is", age)
+
+age = 21
+price = 99.5
+name = "Prathamesh"
+
+print(type(age))
+print(type(price))
+print(type(name))

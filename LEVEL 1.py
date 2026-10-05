@@ -51,6 +51,19 @@
 # print("My name is ", name)
 # print("My age is", age)
 
+# age = 21
+# price = 99.5
+# name = "Prathamesh"
+
+# print(type(age))
+# print(type(price))
+# print(type(name))
+
+# result =map (lambda x,y : x*y if x/2 and y /2 else x+y,[1,2,3,4,5],[1,2,3,4,5]);
+
+#Convert a temperature of 10 Cities c t p or p to c
+
+
 age = 21
 price = 99.5
 name = "Prathamesh"

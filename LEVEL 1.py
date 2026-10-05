@@ -64,6 +64,15 @@
 #Convert a temperature of 10 Cities c t p or p to c
 
 
+# age = 21
+# price = 99.5
+# name = "Prathamesh"
+
+# print(type(age))
+# print(type(price))
+# print(type(name))
+
+
 age = 21
 price = 99.5
 name = "Prathamesh"

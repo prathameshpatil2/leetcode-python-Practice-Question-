@@ -73,10 +73,25 @@
 # print(type(name))
 
 
-age = 21
-price = 99.5
-name = "Prathamesh"
+# age = 21
+# price = 99.5
+# name = "Prathamesh"
 
-print(type(age))
-print(type(price))
-print(type(name))
+# print(type(age))
+# print(type(price))
+# print(type(name))
+
+#  level 4
+
+a = 10
+b = 20
+
+sum = a + b
+print("The sum of a and b is:", sum)
+
+sub = a - b
+print("The difference of a and b is:", sub)
+
+mul = a * b
+print("The product of a and b is:", mul)
+

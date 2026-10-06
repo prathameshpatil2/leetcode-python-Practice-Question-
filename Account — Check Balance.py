@@ -40,3 +40,6 @@ acc10.show_balance()
 
 acc11 = Account("98765", 50000)
 acc11.show_balance()
+
+acc12 = Account("87654", 60000)
+acc12.show_balance()

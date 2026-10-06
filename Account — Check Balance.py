@@ -34,3 +34,6 @@ acc8.show_balance()
 
 acc9 = Account("23456", 20000)
 acc9.show_balance()
+
+acc10 = Account("12345", 10000)
+acc10.show_balance()

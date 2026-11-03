@@ -32,3 +32,7 @@ s6.count_pass()
 
 s7 = Student([80,70,75,85,90])
 s7.count_pass()
+
+
+s8 = Student([80,70,75,85,90])
+s8.count_pass()
